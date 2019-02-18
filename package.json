@@ -39,6 +39,9 @@
     "windows-quiet-hours": "^1.2.2"
   },
   "devDependencies": {
-    "@types/node": "^7.0.10"
+    "@types/node": "^11.9.4",
+    "node-gyp": "^3.8.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.3.3"
   }
 }
